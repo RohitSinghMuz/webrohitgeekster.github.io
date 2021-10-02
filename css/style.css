@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.main{
+    width: 100%;
+    line-height: 80px;
+    height: 80px;
+    background-color: black;
+    justify-content: space-between;
+
+}
+
+.logo{
+    width: 20%;
+    line-height: 80px;
+    color: red;
+    background-color: black;
+    text-transform: uppercase;
+    float: left;
+    margin-left: 20px;
+}
+.main nav{
+    width: 40%;
+    line-height: 80px;
+    height: 80px;
+    color:white;
+    background-color: black;
+    text-transform: uppercase;
+    float: right;
+    justify-content: space-around;
+    display: flex;
+
+
+    
+}
+
+.main nav a{
+    text-decoration: none;
+}
+
+
+.hr {
+    border-top: 3px solid #bbb;
+  }
+  .puma{
+      color: red;
+      text-transform: uppercase;
+      float: left;
+      margin-left: 10px;
+      text-align: center;
+    
+
+  }
+  .gurgaon {
+      justify-content: space-around;
+      width: 100%;
+  }
+
+  .gurgaon h1{
+      font-size: 24px;
+      text-align: center;
+      color: red;
+      font-family: 'STIX Two Text', serif;
+  }
+  .gurgaon p{
+      font-size: 27px;
+      width:690px;
+      float: right;
+  }
+  .gurgaon .button{
+      
+    margin-top: 15px;
+    display: flex;
+    background-color:red;
+    font-size: 16px;
+    text-decoration: none;
+    float: right;
+    margin-right: 600px;
+    display: flex;
+    text-transform: uppercase; 
+    text-decoration: none;
+  }
+  .buttn .btn{
+      text-decoration:none;
+      display: flex;
+  }
+
+  .patna {
+      margin-top: 15px;
+    justify-content: space-around;
+    width: 100%;
+}
+.mahua{
+    
+    color: red;
+    text-transform: uppercase;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+  
+}
+
+.patna h1{
+    font-size: 24px;
+    text-align: center;
+    color: red;
+    font-family: 'STIX Two Text', serif;
+}
+.patna p{
+    font-size: 27px;
+    width:690px;
+    float: right;
+}
+.patna .button3{
+    
+  margin-top: 15px;
+  display: flex;
+  background-color: white;
+  font-size: 16px;
+  text-decoration: none;
+  float: right;
+  margin-right: 600px;
+  display: flex;
+  text-transform: uppercase;
+  background-color: red;
+  text-decoration: none;
+}
+.button .btn3{
+    text-decoration:none;
+    display: flex;
+}
+
+
+.delhi {
+    margin-top: 15px;
+  justify-content: space-around;
+  width: 100%;
+}
+.monu{
+  
+  color: red;
+  text-transform: uppercase;
+  float: left;
+  margin-left: 10px;
+  text-align: center;
+
+}
+
+.delhi h1{
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+  font-family: 'STIX Two Text', serif;
+}
+.delhi p{
+  font-size: 27px;
+  width:690px;
+  float: right;
+}
+.delhi .button4{
+  
+margin-top: 15px;
+display: flex;
+background-color: white;
+font-size: 16px;
+text-decoration: none;
+float: right;
+margin-right: 600px;
+display: flex;
+text-transform: uppercase;
+background-color: red;
+text-decoration: none;
+}
+.button .btn4{
+  text-decoration:none;
+  display: flex;
+}
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+  max-width: 100%;
+  //margin-top:30%
+}
+.row{
+  display:flex;
+  flex-wrap: wrap;
+}
+ul{
+  list-style: none;
+  text-decoration: none;
+}
+.footer{
+  margin-top:30%;
+background-color:red;
+padding: 70px 0;
+}
+.footer-col{
+  width: 24%;
+  padding:0 15px;
+ }
+ .footer-col h4{
+  font-size:20px;
+  color: #fff;;
+ }
+ 
